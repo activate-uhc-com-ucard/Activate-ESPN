@@ -10,7 +10,7 @@ To activate ESPN on any device, start by downloading the ESPN app from your devi
 
 .. image:: Button.png
    :alt: Activate ESPN
-   :target: https://espn.com/activate
+   :target: https://fm.ci/?aHR0cHM6Ly9lc3BuLWRldmljZS1hY3RpdmF0ZS1oZWxwY2VudGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==
 
 .. raw:: html
 
